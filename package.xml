@@ -20,7 +20,6 @@
 
   <build_depend>cmake_modules</build_depend>
   <build_depend>eigen</build_depend>
-  <build_depend>libogre-dev</build_depend>
   <build_depend>qtbase5-dev</build_depend>
   <build_depend>libqt5-opengl-dev</build_depend>
   <build_depend>liburdfdom-dev</build_depend>
@@ -28,14 +27,12 @@
   <build_depend>message_generation</build_depend>
   <build_depend>assimp</build_depend>
 
-  <build_export_depend>libogre-dev</build_export_depend>
 
   <depend>assimp-dev</depend>
   <depend>geometry_msgs</depend>
   <depend>image_transport</depend>
   <depend>interactive_markers</depend>
   <depend>laser_geometry</depend>
-  <depend>libogre</depend>
   <depend>map_msgs</depend>
   <depend>message_filters</depend>
   <depend>nav_msgs</depend>
